@@ -12,15 +12,15 @@ function App() {
     return (
         <div className="App">
 
-            {/*<ReactMemo/>*/}
-            {/*<NotReactMemo/>*/}
+            <ReactMemo/>
+            <NotReactMemo/>
 
             {/*<UseMemo />*/}
             {/*<NotUseMemo />*/}
 
-            <UseCallback />
-            <NotUseCallback />
-            <NotUseMemoInCallback />
+            {/*<UseCallback />*/}
+            {/*<NotUseCallback />*/}
+            {/*<NotUseMemoInCallback />*/}
 
         </div>
     );
