@@ -1,0 +1,20 @@
+{
+  "name": "seminar4",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "dev-vite": "vite",
+    "build-vite": "vite build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
